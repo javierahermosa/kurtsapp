@@ -1,4 +1,4 @@
-#!/Users/jguedes/Apps/Kurt/venv/bin/python
+#!/Users/jguedes/Apps/KurtsApp/venv/bin/python
 # EASY-INSTALL-ENTRY-SCRIPT: 'Flask==0.11.1','console_scripts','flask'
 __requires__ = 'Flask==0.11.1'
 import sys
